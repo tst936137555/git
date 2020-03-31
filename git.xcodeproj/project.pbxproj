@@ -13,6 +13,7 @@
 		2184966524333C0400E33091 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2184966324333C0400E33091 /* Main.storyboard */; };
 		2184966724333C0400E33091 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2184966624333C0400E33091 /* Assets.xcassets */; };
 		2184966A24333C0400E33091 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2184966824333C0400E33091 /* LaunchScreen.storyboard */; };
+		2184967224333CA800E33091 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2184967124333CA800E33091 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2184966624333C0400E33091 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2184966924333C0400E33091 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2184966B24333C0400E33091 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2184967124333CA800E33091 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2184965D24333C0400E33091 /* AppDelegate.swift */,
 				2184965F24333C0400E33091 /* SceneDelegate.swift */,
 				2184966124333C0400E33091 /* ViewController.swift */,
+				2184967124333CA800E33091 /* ViewController2.swift */,
 				2184966324333C0400E33091 /* Main.storyboard */,
 				2184966624333C0400E33091 /* Assets.xcassets */,
 				2184966824333C0400E33091 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2184966224333C0400E33091 /* ViewController.swift in Sources */,
+				2184967224333CA800E33091 /* ViewController2.swift in Sources */,
 				2184965E24333C0400E33091 /* AppDelegate.swift in Sources */,
 				2184966024333C0400E33091 /* SceneDelegate.swift in Sources */,
 			);
